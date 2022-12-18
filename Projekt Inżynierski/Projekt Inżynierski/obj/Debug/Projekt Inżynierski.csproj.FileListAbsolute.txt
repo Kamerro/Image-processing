@@ -1,0 +1,73 @@
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.exe.config
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.exe
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.pdb
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.dll
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Imaging.dll
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Math.dll
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.dll
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.xml
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Imaging.xml
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Math.xml
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.xml
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form1.resources
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Properties.Resources.resources
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.CopyComplete
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.exe
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.pdb
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form2.resources
+C:\Users\user\source\repos\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form3.resources
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form1.resources
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form2.resources
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form3.resources
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Properties.Resources.resources
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.exe
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.pdb
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.exe.config
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.exe
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.pdb
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Imaging.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Math.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.dll
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.xml
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Imaging.xml
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Math.xml
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.xml
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.CopyComplete
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\squares.jpg
+C:\Users\kamil\OneDrive\Pulpit\repos_old\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\serce.png
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\serce.png
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\squares.jpg
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.exe.config
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.exe
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\Projekt Inżynierski.pdb
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.dll
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Imaging.dll
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Math.dll
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.dll
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.xml
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Imaging.xml
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Math.xml
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.xml
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form1.resources
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form2.resources
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Form3.resources
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt_Inżynierski.Properties.Resources.resources
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.csproj.CopyComplete
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.exe
+C:\Users\kamil\OneDrive\Pulpit\Projekt Inżynierski\Projekt Inżynierski\obj\Debug\Projekt Inżynierski.pdb
